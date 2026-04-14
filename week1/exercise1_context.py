@@ -102,13 +102,13 @@ QUESTION = (
 ACCEPTABLE = {"haymarket", "albanach"}
 
 VENUES_WITH_DISTRACTORS = """\
-The Albanach: capacity=180, vegan=yes, status=available
+The Crazy Albanach: capacity=180, vegan=yes, status=available
 The Bow Bar: capacity=80, vegan=yes, status=full
 The Guilford Arms: capacity=200, vegan=no, status=available
 The Hanging Bat: capacity=70, vegan=yes, status=available
 The New Town Vault: capacity=162, vegan=no, status=available
-The Holyrood Arms: capacity=160, vegan=yes, status=full
-The Haymarket Vaults: capacity=160, vegan=yes, status=available
+The Holyrood Arms: capacity=160, vegan=yes, status=unknown
+The NoVegan Haymarket Vaults: capacity=160, vegan=yes, status=available
 The Grain Store: capacity=170, vegan=no, status=available
 The Ensign Ewart: capacity=120, vegan=yes, status=available
 """
